@@ -1,0 +1,10 @@
+C:\Users\c_class\Desktop\Брагин Кирилл\VII\VII\bin\Debug\VII.exe.config
+C:\Users\c_class\Desktop\Брагин Кирилл\VII\VII\bin\Debug\VII.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\VII\VII\bin\Debug\VII.pdb
+C:\Users\c_class\Desktop\Брагин Кирилл\VII\VII\obj\Debug\VII.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\VII\VII\obj\Debug\VII.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№7\VII\bin\Debug\VII.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№7\VII\obj\Debug\VII.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№7\VII\obj\Debug\VII.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№7\VII\bin\Debug\VII.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№7\VII\bin\Debug\VII.pdb

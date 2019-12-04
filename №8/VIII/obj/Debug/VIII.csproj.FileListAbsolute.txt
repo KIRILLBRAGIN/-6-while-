@@ -1,0 +1,10 @@
+C:\Users\c_class\Desktop\Брагин Кирилл\VIII\VIII\bin\Debug\VIII.exe.config
+C:\Users\c_class\Desktop\Брагин Кирилл\VIII\VIII\bin\Debug\VIII.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\VIII\VIII\bin\Debug\VIII.pdb
+C:\Users\c_class\Desktop\Брагин Кирилл\VIII\VIII\obj\Debug\VIII.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\VIII\VIII\obj\Debug\VIII.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№8\VIII\bin\Debug\VIII.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№8\VIII\obj\Debug\VIII.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№8\VIII\obj\Debug\VIII.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№8\VIII\bin\Debug\VIII.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№8\VIII\bin\Debug\VIII.pdb
