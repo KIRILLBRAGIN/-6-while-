@@ -1,0 +1,13 @@
+C:\Users\c_class\Desktop\Брагин Кирилл\XI\XI\bin\Debug\XI.exe.config
+C:\Users\c_class\Desktop\Брагин Кирилл\XI\XI\bin\Debug\XI.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\XI\XI\bin\Debug\XI.pdb
+C:\Users\c_class\Desktop\Брагин Кирилл\XI\XI\obj\Debug\XI.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\XI\XI\obj\Debug\XI.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№11\XI\bin\Debug\XI.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№11\XI\obj\Debug\XI.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№11\XI\obj\Debug\XI.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№11\XI\bin\Debug\XI.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№11\XI\bin\Debug\XI.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6 (Цикл while)\№11\XI\bin\Debug\XI.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6 (Цикл while)\№11\XI\obj\Debug\XI.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6 (Цикл while)\№11\XI\obj\Debug\XI.pdb

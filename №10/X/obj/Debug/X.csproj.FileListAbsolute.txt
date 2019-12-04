@@ -1,0 +1,10 @@
+C:\Users\c_class\Desktop\Брагин Кирилл\X\X\bin\Debug\X.exe.config
+C:\Users\c_class\Desktop\Брагин Кирилл\X\X\bin\Debug\X.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\X\X\bin\Debug\X.pdb
+C:\Users\c_class\Desktop\Брагин Кирилл\X\X\obj\Debug\X.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\X\X\obj\Debug\X.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№10\X\bin\Debug\X.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№10\X\obj\Debug\X.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№10\X\obj\Debug\X.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№10\X\bin\Debug\X.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№10\X\bin\Debug\X.pdb
