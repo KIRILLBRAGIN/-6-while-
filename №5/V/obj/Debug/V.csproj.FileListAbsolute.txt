@@ -1,0 +1,13 @@
+C:\Users\c_class\Desktop\Брагин Кирилл\V\V\bin\Debug\V.exe.config
+C:\Users\c_class\Desktop\Брагин Кирилл\V\V\bin\Debug\V.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\V\V\bin\Debug\V.pdb
+C:\Users\c_class\Desktop\Брагин Кирилл\V\V\obj\Debug\V.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\V\V\obj\Debug\V.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№5\V\bin\Debug\V.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№5\V\obj\Debug\V.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№5\V\obj\Debug\V.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№5\V\bin\Debug\V.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№5\V\bin\Debug\V.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6 (Цикл while)\№5\V\bin\Debug\V.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6 (Цикл while)\№5\V\obj\Debug\V.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6 (Цикл while)\№5\V\obj\Debug\V.pdb

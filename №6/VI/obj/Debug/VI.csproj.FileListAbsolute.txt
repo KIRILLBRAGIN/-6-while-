@@ -1,0 +1,10 @@
+C:\Users\c_class\Desktop\Брагин Кирилл\VI\VI\bin\Debug\VI.exe.config
+C:\Users\c_class\Desktop\Брагин Кирилл\VI\VI\bin\Debug\VI.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\VI\VI\bin\Debug\VI.pdb
+C:\Users\c_class\Desktop\Брагин Кирилл\VI\VI\obj\Debug\VI.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\VI\VI\obj\Debug\VI.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№6\VI\bin\Debug\VI.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№6\VI\obj\Debug\VI.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№6\VI\obj\Debug\VI.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№6\VI\bin\Debug\VI.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№6\VI\bin\Debug\VI.pdb
