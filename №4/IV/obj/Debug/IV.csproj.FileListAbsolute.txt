@@ -1,0 +1,12 @@
+C:\Users\c_class\Desktop\Брагин Кирилл\IV\IV\bin\Debug\IV.exe.config
+C:\Users\c_class\Desktop\Брагин Кирилл\IV\IV\bin\Debug\IV.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\IV\IV\bin\Debug\IV.pdb
+C:\Users\c_class\Desktop\Брагин Кирилл\IV\IV\obj\Debug\IV.csprojResolveAssemblyReference.cache
+C:\Users\c_class\Desktop\Брагин Кирилл\IV\IV\obj\Debug\IV.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\IV\IV\obj\Debug\IV.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№4\IV\bin\Debug\IV.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№4\IV\obj\Debug\IV.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№4\IV\obj\Debug\IV.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№4\IV\bin\Debug\IV.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№4\IV\bin\Debug\IV.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№4\IV\obj\Debug\IV.csprojResolveAssemblyReference.cache
