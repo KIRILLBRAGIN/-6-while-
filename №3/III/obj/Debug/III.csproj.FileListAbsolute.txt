@@ -1,0 +1,9 @@
+C:\Users\c_class\Desktop\Брагин Кирилл\III\III\bin\Debug\III.exe.config
+C:\Users\c_class\Desktop\Брагин Кирилл\III\III\bin\Debug\III.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\III\III\bin\Debug\III.pdb
+C:\Users\c_class\Desktop\Брагин Кирилл\III\III\obj\Debug\III.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\III\III\obj\Debug\III.pdb
+C:\Users\c_class\Desktop\Брагин Кирилл\III\III\obj\Debug\III.csprojResolveAssemblyReference.cache
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№3\III\bin\Debug\III.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№3\III\obj\Debug\III.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №6\№3\III\obj\Debug\III.pdb
